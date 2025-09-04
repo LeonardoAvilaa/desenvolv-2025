@@ -1,0 +1,17 @@
+
+
+ul{
+    list-style-type: none;
+}
+
+#separador1{
+    background-color:#6495ed ;
+}
+
+#separador2, #endereco{
+    background-color: #8b8d92;
+}
+
+fieldset{
+    background-color: #e8e8ea;
+}

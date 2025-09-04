@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+fieldset {
+    background-color: #c4efff;
+    padding: 15px;
+    align-self: center;
+    border-radius: 8px;
+    margin: 5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input,
+select {
+    width: 90%;
+    padding: 8px;
+    margin: 8px 0;
+    border-radius: 10px;
+    border: 2px solid #000000;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+
+}
+
+.color-label {
+  background-color: var(--color-label);
+  padding: 5px;
+}
+
+
+.radio-group {
+    display: flex;
+}
+
+.radio-group label {
+    align-items: center;
+}
+
+.buttons  {
+    margin: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
