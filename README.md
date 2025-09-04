@@ -10,6 +10,9 @@ Neste repositório, serão adicionados todos os arquivos das atividades realizad
 - [Aula 1](#aula1)
     Clonamos o repositorio localmente
 - [Aula 2](#aula2)
+    Práticas com HTML básico
+- [Aula 3](#aula3)
+    Práticas com formulários e inputs
 
 ## Instalação
 Passos para instalar e configurar o projeto:
