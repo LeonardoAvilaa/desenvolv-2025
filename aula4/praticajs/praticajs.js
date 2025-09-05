@@ -12,7 +12,6 @@
             userInput.classList.add("user_pass_fail"); 
             senhaInput.classList.add("user_pass_fail"); 
         }
-        console.log ("aaaa");
     };
 
     var entrar = document.getElementById("entrar");
