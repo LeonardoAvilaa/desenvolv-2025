@@ -13,6 +13,10 @@ Neste repositório, serão adicionados todos os arquivos das atividades realizad
     Práticas com HTML básico
 - [Aula 3](#aula3)
     Práticas com formulários e inputs
+- [Aula 4](#aula4)
+    Práticas com CSS e JavaScript
+
+
 
 ## Instalação
 Passos para instalar e configurar o projeto:
