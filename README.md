@@ -15,6 +15,8 @@ Neste repositório, serão adicionados todos os arquivos das atividades realizad
     Práticas com formulários e inputs
 - [Aula 4](#aula4)
     Práticas com CSS e JavaScript
+- [Aula 5](#aula5)
+    Práticas JavaScript
 
 
 
