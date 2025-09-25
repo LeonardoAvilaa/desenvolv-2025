@@ -17,6 +17,10 @@ Neste repositório, serão adicionados todos os arquivos das atividades realizad
     Práticas com CSS e JavaScript
 - [Aula 5](#aula5)
     Práticas JavaScript
+- [Aula 7](#aula7)
+    Introdução ao PHP e Xdebug
+- [Aula 8](#aula8)
+    Práticas PHP
 
 
 
