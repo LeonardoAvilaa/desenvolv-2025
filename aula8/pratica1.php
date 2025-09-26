@@ -1,7 +1,7 @@
 <?php
-    define('nome', 'Leonardo');
-    define('sobrenome', 'Avila');
+define('nome', 'Leonardo');
+define('sobrenome', 'Avila');
 
-    $nomeCompleto = nome . ' ' . sobrenome;
-    echo $nomeCompleto;  
+$nomeCompleto = nome . ' ' . sobrenome;
+echo $nomeCompleto;
 ?>

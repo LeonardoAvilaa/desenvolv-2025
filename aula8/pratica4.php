@@ -10,7 +10,7 @@ echo "Salario 1: $salario1, Salario 2: $salario2";
 
 for ($i = 0; $i < 100; $i++) {
     $salario1++;
-    if($i == 50) {
+    if ($i == 50) {
         break;
     }
 }
@@ -28,7 +28,7 @@ if ($salario1 < $salario2) {
 echo '<br>';
 
 $idade = array("João" => 35, "Maria" => 37, "José" => 43);
-foreach($idade as $chave => $valor) {
+foreach ($idade as $chave => $valor) {
     echo "Chave = " . $chave . ", Valor = " . $valor;
     echo "<br>";
 }
