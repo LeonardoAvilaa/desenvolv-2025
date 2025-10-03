@@ -21,6 +21,8 @@ Neste repositório, serão adicionados todos os arquivos das atividades realizad
     Introdução ao PHP e Xdebug
 - [Aula 8](#aula8)
     Práticas PHP
+- [Aula 9](#aula9)
+    Práticas com funções, recursividade, require e superglobais em PHP.
 
 
 
